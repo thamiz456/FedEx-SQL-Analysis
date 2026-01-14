@@ -30,7 +30,7 @@ The goal is to derive meaningful business insights that can help improve operati
 ---
 
 ## 📂 Files Included
-- `fedex_queries.sql` – Contains all SQL queries used for analysis
+-  Contains all SQL queries used for analysis
 - `README.md` – Project documentation
 
 ---
